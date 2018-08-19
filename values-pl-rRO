@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Don't translate Victory word -->
+    <string name="slide0_title">Bine ai venit la Victory</string>
+    <string name="slide0_description">Ofera un nou look telefonului tau utilizand diverse combinatii de culori!  Transforma aplicatiile tale preferate in negru si culoarea de accent pe care o alegi! Victory, in acest moment,  suporta 70+ de aplicatii si 20+ accente.</string>
+    <string name="slide1_title">Cum se foloseste?</string>
+    <string name="slide1_description">Ai nevoie de theme engine-ul Substratum daca vrei sa aplici tema. Il poti downloada din Play Store si in functie de sistemul de operare pe care il utilizezi va fi nevoie sa downladezi si un add-on platit.</string>
+    <string name="slide2_title">Ajutor</string>
+    <string name="slide2_description">Pentru inceput, asigura-te ca ai citit descrierea aplicatiei din Play Store si ca ai vizionat videoclipul disponibil pentru aceasta. Pentru alte intrebari imi poti trimite un email la adresa giorgio.canto98@gmail.com</string>
+    <!-- If your language needs the apostrophe make sure to add \ before it -->
+    <string name="slide3_title">Felicitari! Asta este tot!</string>
+    <!-- Don't change app version and don't delete \n -->
+    <string name="slide3_description">Iti multumim ca ai cumparat aplicatia! Daca iti place nu uita sa ii lasi un review!\n\nVersiunea: 12.7 Stabila\nRealizata cu ❤️ in Italy</string>
+    <!-- Don't translate launch_dialog_title -->
+    <string name="launch_dialog_title">Victory</string>
+    
+    <!-- Don't delete \n\n -->
+    <string name="launch_dialog_content">Inainte de a incepe aminteste-ti sa selectezi versiunea de Android pe care o ai din meniul de sus. De asemenea, vei fi nevoit sa faci diverse alte selectii pentru unele aplicatii. \n\nDaca ai probleme cu vreo aplicatie, doar reaplica tema si da reboot telefonului. Daca ai nevoie de ajutor, alatura-te grupului de Telegram pentru suport instant.</string>
+    <string name="launch_dialog_positive">Urmatorul pas</string>
+    <string name="launch_dialog_negative">Chat pentru suport</string>
+    <!-- Don't translate launch_dialog_negative_url -->
+    <string name="launch_dialog_negative_url">https://t.me/victorysubstratum</string>
+</resources>
