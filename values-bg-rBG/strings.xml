@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="slide0_title">Добре дошли в Victory</string>
+    <string name="slide0_description">Дайте свеж нов вид на телефона си с различни цветови комбинации! Добавете тъмна тема на любимите си приложения с любимия си цвят! Victory поддръжа повече от 70 приложения и повече от 20 цвята.</string>
+    <string name="slide1_title">Как се използва?</string>
+    <string name="slide1_description">Трябва Ви Substratum theme engine, ако искате да използвате темата. Може да го изтеглите от Google Play и в зависимост от верисята на Android, може да се наложи да изтеглите допълнително приложение за Substratum.</string>
+    <string name="slide2_title">Помощ</string>
+    <string name="slide2_description">Първо прочетете обяснението в Play Store и гледайте видеото с инструкции. За въпроси питайте giorgio.canto98@gmail.com</string>
+    <string name="slide3_title">Поздравления! Това е всичко!</string>
+    <string name="slide3_description">Благодаря че купихте приложението. If you like it don\'t forget to leave a review!\n\nВерсия: 12.7 стабилна\nНаправено с ❤️ от Италия</string>
+    <string name="launch_dialog_title">Victory</string>
+    <string name="launch_dialog_content">Преди да започнете не забравяйте да изберете Android версията си от менюто най-отгоре. Ще трябва да изберете други опции за някой приложения. \n\nАко имате проблем пре-инсталирайте темата за това приложение и рестартирайте телефона си. Ако имате нужда от помощ влезте в Telegram групата и питайте.</string>
+    <string name="launch_dialog_positive">Следващо</string>
+    <string name="launch_dialog_negative">Онлайн помощ</string>
+    <string name="launch_dialog_negative_url">https://t.me/victorysubstratum</string>
+</resources>

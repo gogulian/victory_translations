@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="slide0_title">Добро пожаловать в Victory</string>
+        <string name="slide0_description">Дайте новый взгляд на ваш телефон, используя различные цветовые комбинации! Превратите свои любимые приложения в черный цвет с акцентом на ваш выбор! В настоящее время Victory поддерживает 70+ приложений и 20+ акцентов.</string>
+        <string name="slide1_title"> Как использовать? </string>
+        <string name="slide1_description">Вам нужен движок темы Substratum, если вы хотите применить тему. Вы можете загрузить его из Play Маркета, и в зависимости от используемой операционной системы вам необходимо загрузить платное дополнение. </string>
+        <string name="slide2_title">Справка</string>
+        <string name="slide2_description">Прежде всего убедитесь, что вы прочитали описание приложения в Play Маркете и просмотрели видео на нем. По всем вопросам вы можете отправить мне электронное письмо по адресу giorgio.canto98@gmail.com </string>
+        <string name="slide3_title">Поздравляем! Это все!</string>
+        <string name="slide3_description"> Благодарим вас за покупку приложения. Если вам это нравится, не забывайте оставлять отзыв! \n\nВерсия: 12.7 Стабильный \nСделать с ❤️ из Италии </string>
+        <string name="launch_dialog_title"> Victory </string>
+         <string name="launch_dialog_content"> Перед запуском не забудьте выбрать версию Android в верхнем меню. Вам также нужно будет сделать дополнительные варианты для некоторых приложений. \n\nЕсли у вас возникли проблемы с приложением, просто повторно примените тему и перезагрузитесь. Если вам нужна помощь, присоединитесь к группе телеграмм для мгновенной поддержки. </string>
+         <string name="launch_dialog_positive"> Далее </string>
+         <string name="launch_dialog_negative"> Чат поддержки </string>
+         <string name="launch_dialog_negative_url"> https://t.me/victorysubstratum </string>
+</resources>

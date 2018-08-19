@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="slide0_title">Victory मैं आपका स्वागत है</string>
+    <string name="slide0_description">अलग अलग जाट के कलर कंबोज यूज़ करके दिजी‌‌‍‍‍‍ये आपके फोन को एक नया लूक । अपनी मर्जी के एक्सेंट से कीजिए अपने फेवरेट ऐप्स को काला Victory फिलहाल सपोर्ट करता है 70 से भी ज्यादा ऐप्स और 20 से भी ज्यादा एक्सेंट </string>
+    <string name="slide1_title">कैसे वापरना है?</string>
+    <string name="slide1_description">थीम अप्लाई करने के लिए आपको चाहिए substratum थीम इंजन । आप इसे Play Store से डाउनलोड कर सकते हैं और अगर आपका ऑपरेटिंग सिस्टम ओरियो है तो आपको पेड़ ऑन डाउनलोड करना पड़ेगा</string>
+    <string name="slide2_title">हेल्प</string>
+    <string name="slide2_description">सबसे पहले प्ले स्टोर पर ऐप का डिस्क्रिप्शन पढ़ना ना भूलिएगा और अगर वीडियो हो तो उसे भी जरूर देखना अधिक जानकारी के लिए आप इस ईमेल पर संपर्क कर सकते हैं giorgio.canto98@gmail.com</string>
+    <string name="slide3_title">शुभकामनाएं !! बस इतना ही</string>
+    <string name="slide3_description">App खरीदने के लिए शुक्रिया. अगर पसंद आए तो रिव्यू जरूर देना\n\nApp Version: 12.7 Stable\nMade with ❤️ from Italy</string>
+    <string name="launch_dialog_title">Victory</string>
+    <string name="launch_dialog_content">शुरू करने से पहले अपना Android वर्जन टॉप में न्यू मैसेज सिलेक्ट करना ना भूलिएगा . बाकी के ऐप्स के लिए आपको अलग से सिलेक्शन करना पड़ेगा।\n\nIf अगर कोई भी दुविधा आए तो अपना फोन थीम अप्लाई करने के बाद रिस्टार्ट कर दीजिएगा. अगर अधिक मदद चाहिए हो तो मेरा टेलीग्राम सपोर्ट चैट ज्वाइन कर दीजिए</string>
+    <string name="launch_dialog_positive">नेक्स्ट</string>
+    <string name="launch_dialog_negative">सपोर्ट चेट</string>
+    <string name="launch_dialog_negative_url">https://t.me/victorysubstratum</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="slide0_title">Wilkommen zu Victory</string>
+    <string name="slide0_description">Verleiht ihrem Handy einen neues frisches Aussehen durch die Nutzung verschiedener Farbkombinationen ! Verwandelt ihre lieblings Apps in Schwarz mit der Akzentfarbe ihrer Wahl ! Victory unterstützt zur Zeit 70+ apps und mehr als 20+ Akzente.</string>
+    <string name="slide1_title">Wie wird es genutzt?</string>
+    <string name="slide1_description">Sie benötigen die Substratum Theme engine um das Theme zu aktivieren. Sie können es sich vom Google Playstore herunterladen und abhängig von ihrem Betriebssystem welches sie nutzen, müssen sie ein kaufpflichtiges add-on kaufen.</string>
+    <string name="slide2_title">Hilfe</string>
+    <string name="slide2_description">Erstmal stellen sie sicher das sie die Beschreibung der app im Play Store gelesen und sich das video angeschaut haben welches dort zu finden ist.Bei Fragen können sie mir eine e-mail an giorgio.canto98@gmail.com senden.</string>
+    <string name="slide3_title">Glückwunsch! Das ist alles!</string>
+    <string name="slide3_description">Vielen Dank für den kauf der App. Wenn ihnen das Theme gefällt vergessen sie bitte nicht eine Bewertung da zu lassen!\n\nVersion: 12.7 Stabil\nGemacht mit ❤️ aus Italien</string>
+    <string name="launch_dialog_title">Victory</string>
+    <string name="launch_dialog_content">Bevor sie starten nicht vergessen ihre Android Version oben im Menü auszuwählen.Sie müssen ausserdem für einige Apps eine zusätzliche Auswahl treffen. \n\nWenn sie Probleme mit einer App haben einfach erneut installieren und das Telefon neu starten.Wenn sie Hilfe benötigen,treten sie der telegram Gruppe bei für sofortige Hilfe.</string>
+    <string name="launch_dialog_positive">Nächste</string>
+    <string name="launch_dialog_negative">Support chat</string>
+    <string name="launch_dialog_negative_url">https://t.me/victorysubstratum</string>
+</resources>
