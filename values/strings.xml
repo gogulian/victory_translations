@@ -9,7 +9,7 @@
     <string name="slide2_description">First of all make sure you have read the description of the app on the Play Store and have watched the video available on it. For any questions you can send me an email at giorgio.canto98@gmail.com</string>
     <!-- If your language needs the apostrophe make sure to add \ before it -->
     <string name="slide3_title">Congratulations! That\'s all!</string>
-    <!-- Don't change app version-->
+    <!-- Don't change app version and don't delete \n -->
     <string name="slide3_description">Thank you for buying the app. If you like it don\'t forget to leave a review!\n\nVersion: 12.7 Stable\nMade with ❤️ from Italy</string>
     <!-- Don't translate launch_dialog_title -->
     <string name="launch_dialog_title">Victory</string>
