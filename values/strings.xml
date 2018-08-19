@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="slide0_title">Welcome to Victory</string>
+    <string name="slide0_description">Give a fresh new look to your phone by using different color combos! Turn your favourite apps to black with the accent of your choice! Victory currently supports 70+ apps and 20+ accents.</string>
+    <string name="slide1_title">How to use?</string>
+    <string name="slide1_description">You need the Substratum theme engine if you want to apply the theme. You can download it from the Play Store and depending on the operating system you are using you will need to download a paid add-on.</string>
+    <string name="slide2_title">Help</string>
+    <string name="slide2_description">First of all make sure you have read the description of the app on the Play Store and have watched the video available on it. For any questions you can send me an email at giorgio.canto98@gmail.com</string>
+    <string name="slide3_title">Congratulations! That\'s all!</string>
+    <string name="slide3_description">Thank you for buying the app. If you like it don\'t forget to leave a review!\n\nVersion: 12.7 Stable\nMade with ❤️ from Italy</string>
+</resources>
